@@ -1,0 +1,8 @@
+{
+	"num_frequency_bins":512,
+	"mel_sampling_rate":16000,
+	"num_mfcc":1024,
+	"num_time_samps":128,
+	"mel_hop_length":50,
+	"mel_window_length":1024
+}
